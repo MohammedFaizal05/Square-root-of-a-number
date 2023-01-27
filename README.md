@@ -35,7 +35,6 @@ square(num1,iternum)
 
 ## Output:
 ![output](/Screenshot%20from%202023-01-21%2020-27-04.png)
-![gcd of two number](gcd.png)
 
 
 ## Result:
