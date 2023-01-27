@@ -15,14 +15,10 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
-/*
-Program to find the square root for the given number(newton's method) using function.
-Developed by: Mohammed Faizal
-RegisterNumber:  22003412
-*/
-```
-```
+```python
+#Program to find the square root for the given number(newton's method) using function.
+#Developed by: Mohammed Faizal
+#RegisterNumber:  22003412
 def square(num1,iternum):
     num2=float(num1)
     for i in range(100):
