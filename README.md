@@ -30,7 +30,8 @@ square(num1,iternum)
 ```
 
 ## Output:
-![output](/Screenshot%20from%202023-01-21%2020-27-04.png)
+![image](https://user-images.githubusercontent.com/120553195/215000239-30c651ec-eabf-4551-84fa-0494692c6a7e.png)
+
 
 
 ## Result:
